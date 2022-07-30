@@ -1,0 +1,26 @@
+{
+  "name": "bike-hire-graphql-server",
+  "version": "1.0.0",
+  "description": "bike-hire-graphql-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisal244/bike-hire-graphql-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faisal244/bike-hire-graphql-server/issues"
+  },
+  "homepage": "https://github.com/faisal244/bike-hire-graphql-server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "mongoose": "^6.5.0"
+  }
+}
