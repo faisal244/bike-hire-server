@@ -1,0 +1,32 @@
+[
+	{
+		"firstName": "Bobby",
+		"lastName": "Smith",
+		"email": "bobsmith@email.com",
+		"password": "Password123!",
+		"profileImageUrl": "https://images.unsplash.com/photo-1538598450935-581f6a5fa7e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1188&q=80",
+		"dateOfBirth": "Thu Jul 28 2022 20:33:49 GMT+0100 (British Summer Time)",
+		"phoneNumber": "+44 7777 777777",
+		"address": {
+			"addressLine1": "123, 4th Street",
+			"addressLine2": "",
+			"city": "Leeds",
+			"postcode": "L1 234"
+		}
+	},
+	{
+		"firstName": "Alice",
+		"lastName": "Smith",
+		"email": "alicesmith@email.com",
+		"password": "Password123!",
+		"profileImageUrl": "https://images.unsplash.com/photo-1538598450935-581f6a5fa7e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1188&q=80",
+		"dateOfBirth": "Thu Jul 28 2022 20:33:49 GMT+0100 (British Summer Time)",
+		"phoneNumber": "+44 7777 777777",
+		"address": {
+			"addressLine1": "123, 4th Street",
+			"addressLine2": "",
+			"city": "Leeds",
+			"postcode": "L1 234"
+		}
+	}
+]
