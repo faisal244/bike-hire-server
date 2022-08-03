@@ -3,6 +3,7 @@ const mongoose = require("mongoose");
 
 const { User, Bike, Booking } = require("../models");
 const users = require("./users.json");
+const bikes = require("./bikes.json");
 
 const init = async () => {
 	try {
@@ -31,6 +32,8 @@ const init = async () => {
 		console.log("[INFO]: Successfully seeded users");
 
 		// seed bikes
+		await Bike.insertMany(bikes);
+		console.log("[INFO]: Successfully seeded bikes");
 
 		// seed bookings
 	} catch (error) {

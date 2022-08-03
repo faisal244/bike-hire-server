@@ -1,0 +1,27 @@
+[
+	{
+		"model": "Model 1",
+		"brand": "Brand 1",
+		"dailyPrice": 20,
+		"weeklyPrice": 100,
+		"specifications": {
+			"frameSize": 1,
+			"wheelSize": 3,
+			"colour": "red",
+			"hasGears": true,
+			"numberOfGears": 10
+		}
+	},
+	{
+		"model": "Model 2",
+		"brand": "Brand 3",
+		"dailyPrice": 10,
+		"weeklyPrice": 50,
+		"specifications": {
+			"frameSize": 10,
+			"wheelSize": 30,
+			"colour": "blue",
+			"hasGears": false
+		}
+	}
+]
