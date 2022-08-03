@@ -18,6 +18,8 @@ const specificationsSchema = {
 	},
 };
 
-const schema = new Schema(specificationsSchema);
+const schema = new Schema(specificationsSchema, {
+	_id: false,
+});
 
 module.exports = schema;
